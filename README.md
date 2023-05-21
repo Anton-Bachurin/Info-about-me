@@ -13,11 +13,11 @@
 
 Это я
 
-![Антон Бачурин] (https://vk.com/anton.bachurin?z=photo13677627_457239794%2Fphotos13677627)
+![Антон Бачурин](https://vk.com/anton.bachurin?z=photo13677627_457239794%2Fphotos13677627)
 
 А это моя помощница - ___Джина___
 
-![Джина] (https://vk.com/anton.bachurin?z=photo13677627_457239818%2Fphotos13677627)
+![Джина](https://vk.com/anton.bachurin?z=photo13677627_457239818%2Fphotos13677627)
 
 
 
